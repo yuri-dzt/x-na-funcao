@@ -16,8 +16,3 @@ pip install numpy
 ```bash
 python src/main.py
 ```
-
-## Você pode ajustar os parâmetros no arquivo main.py. Veja os valores padrão:
-
-numero_de_cromossomos = 150
-geracoes = 50
